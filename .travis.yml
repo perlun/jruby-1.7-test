@@ -1,0 +1,5 @@
+sudo: false
+rvm: jruby-1.7.19-d19
+before_install:
+- rvm list
+
